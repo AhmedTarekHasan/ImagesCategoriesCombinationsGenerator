@@ -16,3 +16,8 @@ Have you ever faced the situation when you have to manage system objects status 
 ## Related Links:
 * [Development Simply Put Blog Post](http://developmentsimplyput.blogspot.com/2013/12/application-to-generate-combined-images.html)
 * [Used Library: Possibilities Cube Library](https://github.com/AhmedTarekHasan/PossibilitiesCubeLibrary)
+
+<br/>
+
+## Authors:
+* [Ahmed Tarek Hasan](https://linkedin.com/in/atarekhasan)
